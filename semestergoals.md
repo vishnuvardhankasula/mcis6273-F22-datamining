@@ -5,4 +5,4 @@
 
 * Data mining programs break down patterns and connections in data based on what information users request or provide.
 
-* 
+* to find out patterns and relationships tpo solve problems.
